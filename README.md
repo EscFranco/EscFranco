@@ -28,8 +28,16 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
             </td>
             <td width="100px" align="center">
+            <span><strong>TypeScript</strong></span><br>            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />          
+            </td>
+            <td width="100px" align="center">
             <span><strong>React</strong></span><br>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+            </td>
+            <td width="100px" align="center">
+            <span><strong>NextJS</strong></span><br>            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />          
             </td>
             <td width="100px" align="center">
             <span><strong>Bootstrap</strong></span><br>
